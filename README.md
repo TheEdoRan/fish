@@ -1,3 +1,3 @@
 # Installation
 
-Clone this repo in `~/.config/fish`.
+`cd` into `~/.config` and clone this repo.
