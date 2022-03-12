@@ -1,4 +1,4 @@
-functions/ssh_aliases.fish
+conf.d/ssh_aliases.fish
 
 # macOS
 .DS_Store
