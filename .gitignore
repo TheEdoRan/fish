@@ -1,0 +1,6 @@
+functions/ssh_aliases.fish
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
