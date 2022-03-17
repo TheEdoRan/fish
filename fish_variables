@@ -20,7 +20,7 @@ SETUVAR _fish_abbr_ncu:npx\x20npm\x2dcheck\x2dupdates
 SETUVAR _fish_abbr_sv:sudoedit
 SETUVAR _fish_abbr_v:nvim
 SETUVAR _fish_abbr_vim:nvim
-SETUVAR _fisher_TheEdoRan_2F_shellder_files:/Users/theedoran/\x2econfig/fish/functions/fish_mode_prompt\x2efish\x1e/Users/theedoran/\x2econfig/fish/functions/fish_prompt\x2efish
+SETUVAR _fisher_TheEdoRan_2F_shellder_files:/Users/theedoran/\x2econfig/fish/functions/fish_mode_prompt\x2efish\x1e/Users/theedoran/\x2econfig/fish/functions/fish_prompt\x2efish\x1e/Users/theedoran/\x2econfig/fish/functions/shellder_segments\x2efish
 SETUVAR _fisher_decors_2F_fish_2D_colored_2D_man_files:/Users/theedoran/\x2econfig/fish/functions/man\x2efish
 SETUVAR _fisher_jethrokuan_2F_z_files:/Users/theedoran/\x2econfig/fish/functions/__z\x2efish\x1e/Users/theedoran/\x2econfig/fish/functions/__z_add\x2efish\x1e/Users/theedoran/\x2econfig/fish/functions/__z_clean\x2efish\x1e/Users/theedoran/\x2econfig/fish/functions/__z_complete\x2efish\x1e/Users/theedoran/\x2econfig/fish/conf\x2ed/z\x2efish
 SETUVAR _fisher_jorgebucaran_2F_nvm_2E_fish_files:/Users/theedoran/\x2econfig/fish/functions/_nvm_index_update\x2efish\x1e/Users/theedoran/\x2econfig/fish/functions/_nvm_list\x2efish\x1e/Users/theedoran/\x2econfig/fish/functions/_nvm_version_activate\x2efish\x1e/Users/theedoran/\x2econfig/fish/functions/_nvm_version_deactivate\x2efish\x1e/Users/theedoran/\x2econfig/fish/functions/nvm\x2efish\x1e/Users/theedoran/\x2econfig/fish/conf\x2ed/nvm\x2efish\x1e/Users/theedoran/\x2econfig/fish/completions/nvm\x2efish
