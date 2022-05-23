@@ -7,7 +7,6 @@ SETUVAR Z_DATA_DIR:/Users/theedoran/\x2elocal/share/z
 SETUVAR Z_EXCLUDE:\x5e/Users/theedoran\x24
 SETUVAR __fish_initialized:3400
 SETUVAR _fish_abbr___ls:/bin/ls
-SETUVAR _fish_abbr___npm:npm
 SETUVAR _fish_abbr___vim:/usr/bin/vim
 SETUVAR _fish_abbr_ga:git\x20add
 SETUVAR _fish_abbr_gc:git\x20commit\x20\x2dm
@@ -18,7 +17,6 @@ SETUVAR _fish_abbr_gl:git\x20log\x20\x2d\x2doneline
 SETUVAR _fish_abbr_gp:git\x20push
 SETUVAR _fish_abbr_gs:git\x20status\x20\x2ds
 SETUVAR _fish_abbr_ncu:npx\x20npm\x2dcheck\x2dupdates
-SETUVAR _fish_abbr_npm:pnpm
 SETUVAR _fish_abbr_sv:sudoedit
 SETUVAR _fish_abbr_v:nvim
 SETUVAR _fish_abbr_vim:nvim
