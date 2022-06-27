@@ -17,6 +17,7 @@ SETUVAR _fish_abbr_gl:git\x20log\x20\x2d\x2doneline
 SETUVAR _fish_abbr_gp:git\x20push
 SETUVAR _fish_abbr_gs:git\x20status\x20\x2ds
 SETUVAR _fish_abbr_ncu:npx\x20npm\x2dcheck\x2dupdates
+SETUVAR _fish_abbr_secret:openssl\x20rand\x20\x2dhex
 SETUVAR _fish_abbr_sv:sudoedit
 SETUVAR _fish_abbr_v:nvim
 SETUVAR _fish_abbr_vim:nvim
@@ -55,6 +56,6 @@ SETUVAR fish_pager_color_description:B3A06D
 SETUVAR fish_pager_color_prefix:normal\x1e\x2d\x2dbold\x1e\x2d\x2dunderline
 SETUVAR fish_pager_color_progress:brwhite\x1e\x2d\x2dbackground\x3dcyan
 SETUVAR --export fish_pager_color_selected_background:\x2d\x2dbackground\x3dFFCC66
-SETUVAR fish_user_paths:/opt/homebrew/opt/node\x4016/bin\x1e/Applications/Visual\x20Studio\x20Code\x2eapp/Contents/Resources/app/bin\x1e/opt/homebrew/bin\x1e/opt/homebrew/sbin\x1e/opt/homebrew/opt/mysql\x2dclient/bin
+SETUVAR fish_user_paths:/opt/homebrew/opt/mysql\x2dclient/bin\x1e/opt/homebrew/opt/libpq/bin\x1e/opt/homebrew/opt/node\x4016/bin\x1e/Applications/Visual\x20Studio\x20Code\x2eapp/Contents/Resources/app/bin\x1e/opt/homebrew/bin\x1e/opt/homebrew/sbin
 SETUVAR nvm_data:/Users/theedoran/\x2elocal/share/nvm
 SETUVAR nvm_mirror:https\x3a//nodejs\x2eorg/dist
