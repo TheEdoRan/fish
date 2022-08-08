@@ -11,7 +11,7 @@ SETUVAR _fish_abbr___vim:/usr/bin/vim
 SETUVAR _fish_abbr_ga:git\x20add
 SETUVAR _fish_abbr_gc:git\x20commit\x20\x2dm
 SETUVAR _fish_abbr_gcln:git\x20clean\x20\x2ddfx
-SETUVAR _fish_abbr_gcz:git\x20cz
+SETUVAR _fish_abbr_gcn:git\x20commit\x20\x2d\x2dno\x2dedit
 SETUVAR _fish_abbr_gd:git\x20diff
 SETUVAR _fish_abbr_gl:git\x20log\x20\x2d\x2doneline
 SETUVAR _fish_abbr_gp:git\x20push
