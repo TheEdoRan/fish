@@ -1,10 +1,5 @@
 # This file contains fish universal variable definitions.
 # VERSION: 3.0
-SETUVAR ZO_CMD:zo
-SETUVAR Z_CMD:z
-SETUVAR Z_DATA:/Users/theedoran/\x2elocal/share/z/data
-SETUVAR Z_DATA_DIR:/Users/theedoran/\x2elocal/share/z
-SETUVAR Z_EXCLUDE:\x5e/Users/theedoran\x24
 SETUVAR __fish_initialized:3400
 SETUVAR _fish_abbr___ls:/bin/ls
 SETUVAR _fish_abbr___vim:/usr/bin/vim
@@ -23,10 +18,10 @@ SETUVAR _fish_abbr_v:nvim
 SETUVAR _fish_abbr_vim:nvim
 SETUVAR _fisher_TheEdoRan_2F_shellder_files:/Users/theedoran/\x2econfig/fish/functions/fish_mode_prompt\x2efish\x1e/Users/theedoran/\x2econfig/fish/functions/fish_prompt\x2efish\x1e/Users/theedoran/\x2econfig/fish/functions/shellder_segments\x2efish
 SETUVAR _fisher_decors_2F_fish_2D_colored_2D_man_files:/Users/theedoran/\x2econfig/fish/functions/man\x2efish
-SETUVAR _fisher_jethrokuan_2F_z_files:/Users/theedoran/\x2econfig/fish/functions/__z\x2efish\x1e/Users/theedoran/\x2econfig/fish/functions/__z_add\x2efish\x1e/Users/theedoran/\x2econfig/fish/functions/__z_clean\x2efish\x1e/Users/theedoran/\x2econfig/fish/functions/__z_complete\x2efish\x1e/Users/theedoran/\x2econfig/fish/conf\x2ed/z\x2efish
 SETUVAR _fisher_jorgebucaran_2F_nvm_2E_fish_files:/Users/theedoran/\x2econfig/fish/functions/_nvm_index_update\x2efish\x1e/Users/theedoran/\x2econfig/fish/functions/_nvm_list\x2efish\x1e/Users/theedoran/\x2econfig/fish/functions/_nvm_version_activate\x2efish\x1e/Users/theedoran/\x2econfig/fish/functions/_nvm_version_deactivate\x2efish\x1e/Users/theedoran/\x2econfig/fish/functions/nvm\x2efish\x1e/Users/theedoran/\x2econfig/fish/conf\x2ed/nvm\x2efish\x1e/Users/theedoran/\x2econfig/fish/completions/nvm\x2efish
 SETUVAR _fisher_oh_2D_my_2D_fish_2F_plugin_2D_bang_2D_bang_files:/Users/theedoran/\x2econfig/fish/functions/__history_previous_command\x2efish\x1e/Users/theedoran/\x2econfig/fish/functions/__history_previous_command_arguments\x2efish\x1e/Users/theedoran/\x2econfig/fish/conf\x2ed/plugin\x2dbang\x2dbang\x2efish
-SETUVAR _fisher_plugins:oh\x2dmy\x2dfish/plugin\x2dbang\x2dbang\x1edecors/fish\x2dcolored\x2dman\x1ejethrokuan/z\x1eTheEdoRan/shellder\x1ejorgebucaran/nvm\x2efish
+SETUVAR _fisher_plugins:oh\x2dmy\x2dfish/plugin\x2dbang\x2dbang\x1edecors/fish\x2dcolored\x2dman\x1eTheEdoRan/shellder\x1ejorgebucaran/nvm\x2efish
+SETUVAR _fisher_upgraded_to_4_4:\x1d
 SETUVAR fish_color_autosuggestion:5f5f5f
 SETUVAR fish_color_cancel:\x2d\x2dreverse
 SETUVAR fish_color_command:00ffff
