@@ -16,18 +16,21 @@ SETUVAR _fish_abbr_gd:git\x20diff
 SETUVAR _fish_abbr_gl:git\x20log\x20\x2d\x2doneline
 SETUVAR _fish_abbr_gp:git\x20push
 SETUVAR _fish_abbr_gs:git\x20status\x20\x2ds
+SETUVAR _fish_abbr_ins:sudo\x20pacman\x20\x2dS
 SETUVAR _fish_abbr_ncu:npx\x20npm\x2dcheck\x2dupdates
+SETUVAR _fish_abbr_rem:sudo\x20pacman\x20\x2dRns
 SETUVAR _fish_abbr_secret:openssl\x20rand\x20\x2dhex
 SETUVAR _fish_abbr_sv:sudoedit
-SETUVAR _fish_abbr_update:sudo\x20apt\x20update\x20\x2dy\x3b\x20sudo\x20apt\x20upgrade\x20\x2dy\x3b\x20sudo\x20apt\x20autoremove\x20\x2dy
+SETUVAR _fish_abbr_update:topgrade
 SETUVAR _fish_abbr_v:nvim
 SETUVAR _fish_abbr_vim:nvim
-SETUVAR _fisher_TheEdoRan_2F_shellder_files:/Users/theedoran/\x2econfig/fish/functions/fish_mode_prompt\x2efish\x1e/Users/theedoran/\x2econfig/fish/functions/fish_prompt\x2efish\x1e/Users/theedoran/\x2econfig/fish/functions/shellder_segments\x2efish
-SETUVAR _fisher_decors_2F_fish_2D_colored_2D_man_files:/Users/theedoran/\x2econfig/fish/functions/man\x2efish
+SETUVAR _fish_abbr_yins:yay\x20\x2dS
+SETUVAR _fish_abbr_yrem:yay\x20\x2dRns
+SETUVAR _fisher_decors_2F_fish_2D_colored_2D_man_files:\x7e/\x2econfig/fish/functions/man\x2efish
 SETUVAR _fisher_jethrokuan_2F_z_files:\x7e/\x2econfig/fish/functions/__z\x2efish\x1e\x7e/\x2econfig/fish/functions/__z_add\x2efish\x1e\x7e/\x2econfig/fish/functions/__z_clean\x2efish\x1e\x7e/\x2econfig/fish/functions/__z_complete\x2efish\x1e\x7e/\x2econfig/fish/conf\x2ed/z\x2efish
-SETUVAR _fisher_jorgebucaran_2F_nvm_2E_fish_files:/Users/theedoran/\x2econfig/fish/functions/_nvm_index_update\x2efish\x1e/Users/theedoran/\x2econfig/fish/functions/_nvm_list\x2efish\x1e/Users/theedoran/\x2econfig/fish/functions/_nvm_version_activate\x2efish\x1e/Users/theedoran/\x2econfig/fish/functions/_nvm_version_deactivate\x2efish\x1e/Users/theedoran/\x2econfig/fish/functions/nvm\x2efish\x1e/Users/theedoran/\x2econfig/fish/conf\x2ed/nvm\x2efish\x1e/Users/theedoran/\x2econfig/fish/completions/nvm\x2efish
-SETUVAR _fisher_oh_2D_my_2D_fish_2F_plugin_2D_bang_2D_bang_files:/Users/theedoran/\x2econfig/fish/functions/__history_previous_command\x2efish\x1e/Users/theedoran/\x2econfig/fish/functions/__history_previous_command_arguments\x2efish\x1e/Users/theedoran/\x2econfig/fish/conf\x2ed/plugin\x2dbang\x2dbang\x2efish
-SETUVAR _fisher_plugins:oh\x2dmy\x2dfish/plugin\x2dbang\x2dbang\x1edecors/fish\x2dcolored\x2dman\x1eTheEdoRan/shellder\x1ejorgebucaran/nvm\x2efish\x1ejethrokuan/z
+SETUVAR _fisher_jorgebucaran_2F_nvm_2E_fish_files:\x7e/\x2econfig/fish/functions/_nvm_index_update\x2efish\x1e\x7e/\x2econfig/fish/functions/_nvm_list\x2efish\x1e\x7e/\x2econfig/fish/functions/_nvm_version_activate\x2efish\x1e\x7e/\x2econfig/fish/functions/_nvm_version_deactivate\x2efish\x1e\x7e/\x2econfig/fish/functions/nvm\x2efish\x1e\x7e/\x2econfig/fish/conf\x2ed/nvm\x2efish\x1e\x7e/\x2econfig/fish/completions/nvm\x2efish
+SETUVAR _fisher_oh_2D_my_2D_fish_2F_plugin_2D_bang_2D_bang_files:\x7e/\x2econfig/fish/functions/__history_previous_command\x2efish\x1e\x7e/\x2econfig/fish/functions/__history_previous_command_arguments\x2efish\x1e\x7e/\x2econfig/fish/conf\x2ed/plugin\x2dbang\x2dbang\x2efish
+SETUVAR _fisher_plugins:oh\x2dmy\x2dfish/plugin\x2dbang\x2dbang\x1edecors/fish\x2dcolored\x2dman\x1ejorgebucaran/nvm\x2efish\x1ejethrokuan/z
 SETUVAR _fisher_upgraded_to_4_4:\x1d
 SETUVAR fish_color_autosuggestion:5f5f5f
 SETUVAR fish_color_cancel:\x2d\x2dreverse
@@ -59,5 +62,5 @@ SETUVAR fish_pager_color_prefix:normal\x1e\x2d\x2dbold\x1e\x2d\x2dunderline
 SETUVAR fish_pager_color_progress:brwhite\x1e\x2d\x2dbackground\x3dcyan
 SETUVAR --export fish_pager_color_selected_background:\x2d\x2dbackground\x3dFFCC66
 SETUVAR fish_user_paths:/opt/homebrew/opt/mysql\x2dclient/bin\x1e/opt/homebrew/opt/libpq/bin\x1e/opt/homebrew/opt/node\x4016/bin\x1e/Applications/Visual\x20Studio\x20Code\x2eapp/Contents/Resources/app/bin\x1e/opt/homebrew/bin\x1e/opt/homebrew/sbin
-SETUVAR nvm_data:/Users/theedoran/\x2elocal/share/nvm
+SETUVAR nvm_data:/home/theedoran/\x2elocal/share/nvm
 SETUVAR nvm_mirror:https\x3a//nodejs\x2eorg/dist
